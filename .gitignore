@@ -1,0 +1,4 @@
+.env
+tennis_app.db
+uploads/
+__pycache__/
