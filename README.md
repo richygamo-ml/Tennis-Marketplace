@@ -60,7 +60,6 @@ Create a `.env` file in the root directory but ⚠ never commit your
 # Stripe
 
 This app uses Stripe test mode.
-Get your test key here: https://dashboard.stripe.com/test/apikeys
 
 ---
 
